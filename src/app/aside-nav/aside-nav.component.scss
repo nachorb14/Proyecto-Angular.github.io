@@ -3,7 +3,6 @@
     flex-direction: column;
     width: 150px;
     position: absolute;
-    height: -webkit-fill-available;
     margin-top: 5rem;
 }
 
@@ -11,10 +10,10 @@
     display: flex;
     flex-direction: column;
     margin-top: 2rem;
-    margin-bottom: 2rem;
 }
 
 a {
     text-decoration: none;
     color: black;
+    margin-bottom: 1.5rem;
 }
